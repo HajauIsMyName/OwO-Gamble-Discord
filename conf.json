@@ -3,7 +3,7 @@
     "channel": 123,
     "bet": 1000,
     "webhook": {
-        "link": "",
+        "link": null,
         "ping": 123
     }
 }
