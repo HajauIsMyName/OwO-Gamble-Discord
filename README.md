@@ -1,6 +1,7 @@
 ## Authors
 
 - #### [@hajauismyname](https://github.com/hajauismyname)
+- #### idea from [@ahihiyou20](https://github.com/ahihiyou20)
 
 ## WARNING
 
